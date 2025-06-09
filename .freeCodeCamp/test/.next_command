@@ -89,3 +89,4 @@ __vsc_prompt_cmd_original
 echo --help
 man help
 man echo
+man echo
