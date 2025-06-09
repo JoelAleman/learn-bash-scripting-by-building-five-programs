@@ -8,4 +8,5 @@ read NAME
 echo $QUESTION2
 read LOCATION
 echo $QUESTION3
+read WEBSITE
 echo Hello $NAME from $LOCATION.
