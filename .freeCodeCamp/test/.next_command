@@ -35,3 +35,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello bash
 touch questionnaire.sh
 git add .
+echo hello questionnaire
+'/workspace/project/questionnaire.sh'
