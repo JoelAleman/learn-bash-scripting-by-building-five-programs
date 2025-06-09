@@ -90,3 +90,4 @@ echo --help
 man help
 man echo
 man echo
+./questionnaire.sh
