@@ -149,3 +149,8 @@ help [[ EXPRESSION ]]
 test help
 help test
 ./countdown.sh 5
+__vsc_prompt_cmd_original
+test [[ 4 -le 5]]
+test [[ 4 -le 5]]
+__vsc_prompt_cmd_original
+[[ 4 -le 5 ]]
