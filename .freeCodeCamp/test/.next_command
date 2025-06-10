@@ -380,3 +380,5 @@ chmod +x five.sh
 git add .
 ./five.sh
 clear
+./five
+./five.sh
