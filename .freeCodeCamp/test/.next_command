@@ -198,3 +198,10 @@ tocuh bingo.sh
 touch bingo.sh
 chmod +x bingo.sh
 git add .
+git commit -m Completed countdown program
+git commit -m "Completed countdown program"
+git push
+git source
+git status
+git push
+git branch
