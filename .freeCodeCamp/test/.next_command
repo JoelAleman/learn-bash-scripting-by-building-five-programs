@@ -340,3 +340,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh
 ARR
 echo ${ARR[*]}
+ARR=("a" "b" "c")
+echo ${ARR[*]}
+declare -p ARR
