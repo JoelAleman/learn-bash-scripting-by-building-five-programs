@@ -9,4 +9,7 @@ echo ${RESPONSES[$N]}
 GET_FORTUNE(){
   echo "Ask a yes or no question:"
 }
+
 GET_FORTUNE
+read QUESTION
+echo $QUESTION
