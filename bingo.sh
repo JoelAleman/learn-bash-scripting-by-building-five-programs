@@ -10,4 +10,7 @@ then
 elif [[ $NUMBER -le 30 ]]
 then
   echo "The next number is, I:"$NUMBER
+elif (( NUMBER < 46 ))
+then 
+  echo "The next number is, N:"$NUMBER
 fi
