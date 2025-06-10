@@ -163,3 +163,4 @@ echo $?
 bad_command
 [[ -n bad_command ]]
 bad_command
+ls --color=auto
