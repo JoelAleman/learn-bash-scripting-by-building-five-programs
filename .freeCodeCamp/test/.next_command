@@ -384,3 +384,4 @@ clear
 ./five.sh
 help
 help type
+type echo
