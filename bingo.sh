@@ -13,4 +13,7 @@ then
 elif (( NUMBER < 46 ))
 then 
   echo "The next number is, N:"$NUMBER
+elif [[ $NUMBER -lt 61 ]]
+then
+  echo "The next number is, G:"$NUMBER
 fi

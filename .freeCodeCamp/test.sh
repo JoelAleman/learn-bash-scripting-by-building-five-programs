@@ -2,7 +2,7 @@
 #Bingo Number Generator
 
 echo -e "\n~~ Bingo Number Generator ~~\n"
-NUMBER=$(( RANDOM % 15+31 ))
+NUMBER=$(( RANDOM % 15+46 ))
 TEXT="The next number is, "
 if (( NUMBER <= 15 ))
 then 
@@ -13,4 +13,7 @@ then
 elif (( NUMBER < 46 ))
 then 
   echo "The next number is, N:"$NUMBER
+elif [[ $NUMBER -lt 61 ]]
+then
+  echo "The next number is, G:"$NUMBER
 fi
