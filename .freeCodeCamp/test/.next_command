@@ -185,3 +185,4 @@ help
 ls --color=auto /
 ls --color=auto /b
 ls --color=auto /bin
+man sleep
