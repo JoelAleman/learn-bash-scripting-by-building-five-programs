@@ -355,3 +355,4 @@ help [[
 ./fortune.sh
 help {{
 help [[
+[[ hello == hello ]]
