@@ -369,3 +369,5 @@ echo $VAR
 [[ $VAR == "hello world" ]]
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
+__vsc_prompt_cmd_original
+[[ "test?" =~ \?$ ]]
