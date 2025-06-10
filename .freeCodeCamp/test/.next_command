@@ -180,3 +180,4 @@ help [[ ]]
 ./countdown.sh -2
 help if
 help
+./countdown.sh 10
