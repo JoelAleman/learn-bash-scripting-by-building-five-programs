@@ -205,3 +205,4 @@ git source
 git status
 git push
 git branch
+./bingo.sh
