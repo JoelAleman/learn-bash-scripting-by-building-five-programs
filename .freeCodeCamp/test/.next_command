@@ -352,3 +352,6 @@ help
 help until
 help [[
 ./fortune.sh
+./fortune.sh
+help {{
+help [[
