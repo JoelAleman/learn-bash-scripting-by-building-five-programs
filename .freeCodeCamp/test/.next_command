@@ -197,3 +197,4 @@ help while
 tocuh bingo.sh
 touch bingo.sh
 chmod +x bingo.sh
+git add .
