@@ -172,3 +172,5 @@ test -x countdown.sh
 test -x countdown.sh
 [[ -x bad_file.txt ]]
 [[ -x countdown.sh ]]
+__vsc_prompt_cmd_original
+help [[ ]]
