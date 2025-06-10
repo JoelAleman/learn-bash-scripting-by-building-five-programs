@@ -164,3 +164,4 @@ bad_command
 [[ -n bad_command ]]
 bad_command
 ls --color=auto
+ls --color=auto -y
