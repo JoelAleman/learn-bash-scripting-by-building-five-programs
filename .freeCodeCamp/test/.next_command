@@ -344,3 +344,4 @@ ARR=("a" "b" "c")
 echo ${ARR[*]}
 declare -p ARR
 ./fortune.sh
+help
