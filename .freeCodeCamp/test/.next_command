@@ -209,3 +209,4 @@ git branch
 printenv
 echo LANG
 echo $LANG
+declare -p
