@@ -160,3 +160,6 @@ echo $?
 [[ 4 -le 5 ]]
 [[ 4 -ge 5 ]]
 [[ 10 -ne 5 ]]
+bad_command
+[[ -n bad_command ]]
+bad_command
