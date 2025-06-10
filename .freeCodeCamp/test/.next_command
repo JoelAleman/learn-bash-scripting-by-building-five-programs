@@ -183,3 +183,5 @@ help
 ./countdown.sh 10
 help
 ls --color=auto /
+ls --color=auto /b
+ls --color=auto /bin
