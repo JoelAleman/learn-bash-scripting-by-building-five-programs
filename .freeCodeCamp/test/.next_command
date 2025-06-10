@@ -383,3 +383,4 @@ clear
 ./five
 ./five.sh
 help
+help type
